@@ -1,2 +1,2 @@
-# MajevProject
-Contains Majev's Project
+# MajevProjects
+Contains Majev's Projects
